@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SashahaviaViewTool::Renderer.copyright 'Sasha Havia', 'All rights reserved'
+```
 
 ## Development
 
